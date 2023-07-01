@@ -4,9 +4,7 @@
 
 This repository serves as a comprehensive reference guide for built-in methods and functions in Python. It provides an organized collection of commonly used methods and functions available in the Python Standard Library, covering various data types and functionalities.
 
-```bash
-pip install foobar
-```
+[1.String Methods](https://github.com/Moazosama2004/Python/blob/main/README.md#string-methods)
 
 ## String Methods
 
@@ -109,20 +107,4 @@ set.symmetric_difference(other)
 set.symmetric_difference_update(other)
 set.union(*others)
 set.update(*others)
-```
-
-## File Object Methods
-```python
-file.close()
-file.flush()
-file.fileno()
-file.isatty()
-file.read([size])
-file.readline([size])
-file.readlines([sizehint])
-file.seek(offset[, whence])
-file.tell()
-file.truncate([size])
-file.write(str)
-file.writelines(lines)
 ```
