@@ -4,7 +4,7 @@
 
 This repository serves as a comprehensive reference guide for built-in methods and functions in Python. It provides an organized collection of commonly used methods and functions available in the Python Standard Library, covering various data types and functionalities.
 
-[1.String Methods](https://github.com/Moazosama2004/Python/blob/main/README.md#string-methods)
+[1.String Methods](https://github.com/Moazosama2004/Python#string-methods)
 
 ## String Methods
 
