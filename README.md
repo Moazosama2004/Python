@@ -108,3 +108,12 @@ set.symmetric_difference_update(other)
 set.union(*others)
 set.update(*others)
 ```
+
+```Cpp
+#includ <iostream>
+
+int main() {
+   std::cout << "moaz";
+   return 0;
+}
+```
