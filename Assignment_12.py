@@ -28,14 +28,18 @@ print("=" * 30)
 def addition(*numbers):
     sum = 0
     for num in numbers:
-        sum += num
+        if num == 5 : 
+            sum -= num 
+        elif num == 10:
+            continue
+        else :
+            sum += num
     else:
         return sum
     
 # Tests
 print(addition(10, 20, 30, 10, 15)) # 65
 print(addition(10, 20, 30, 10, 15, 5, 100)) # 160
-
 print("=" * 30)
 
 # Assignment 3
